@@ -1,0 +1,10 @@
+textarea {
+    position: relative;
+    display: block;
+    height: 200px;
+    width: 500px;
+}
+button {
+    font-size: 20px;
+    padding: 10px;
+}
